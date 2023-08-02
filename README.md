@@ -3,8 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-<img src="https://github.com/div-simform/Practical_7_Provider/assets/125264375/6c3a8f49-6341-486a-8fb2-049c9856eeb2" height="650" width="400">
-<img src="https://github.com/div-simform/Practical_7_Provider/assets/125264375/ff0528f2-4921-4a94-8652-a7cbf96bee11" height="650" width="400">
-<img src="https://github.com/div-simform/Practical_7_Provider/assets/125264375/3f486dd1-6cc4-47c1-a229-8b0548af9c73" height="650" width="400">
+<img src="https://github.com/divyang-simformsoftware/Practical_7_Provider/assets/125264375/f8ed7165-110e-4431-af1a-70c8d4f9e493" height="450" width="250">
+<img src="https://github.com/divyang-simformsoftware/Practical_7_Provider/assets/125264375/c6e7efa2-7c57-459c-a80d-c4db9dc30a76" height="450" width="250">
 
 
